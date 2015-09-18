@@ -32,7 +32,7 @@ function glacier_content_blocks_section_uuid_features_default_terms() {
     'description_field' => array(
       'en' => array(
         0 => array(
-          'value' => '',
+          'value' => NULL,
           'summary' => NULL,
           'format' => 'full_html',
           'safe_value' => '',
@@ -73,7 +73,7 @@ function glacier_content_blocks_section_uuid_features_default_terms() {
         ),
       ),
     ),
-    'description_original' => '',
+    'description_original' => NULL,
   );
   $terms[] = array(
     'name' => 'Grid item (4/12)',
@@ -97,7 +97,7 @@ function glacier_content_blocks_section_uuid_features_default_terms() {
     'description_field' => array(
       'en' => array(
         0 => array(
-          'value' => '',
+          'value' => NULL,
           'summary' => NULL,
           'format' => 'full_html',
           'safe_value' => '',
@@ -143,7 +143,7 @@ function glacier_content_blocks_section_uuid_features_default_terms() {
         ),
       ),
     ),
-    'description_original' => '',
+    'description_original' => NULL,
   );
   $terms[] = array(
     'name' => 'Grid item (3/12)',
@@ -167,7 +167,7 @@ function glacier_content_blocks_section_uuid_features_default_terms() {
     'description_field' => array(
       'en' => array(
         0 => array(
-          'value' => '',
+          'value' => NULL,
           'summary' => NULL,
           'format' => 'full_html',
           'safe_value' => '',
@@ -213,7 +213,7 @@ function glacier_content_blocks_section_uuid_features_default_terms() {
         ),
       ),
     ),
-    'description_original' => '',
+    'description_original' => NULL,
   );
   $terms[] = array(
     'name' => 'Grid item (8/12)',
@@ -237,7 +237,7 @@ function glacier_content_blocks_section_uuid_features_default_terms() {
     'description_field' => array(
       'en' => array(
         0 => array(
-          'value' => '',
+          'value' => NULL,
           'summary' => NULL,
           'format' => 'full_html',
           'safe_value' => '',
@@ -283,7 +283,7 @@ function glacier_content_blocks_section_uuid_features_default_terms() {
         ),
       ),
     ),
-    'description_original' => '',
+    'description_original' => NULL,
   );
   $terms[] = array(
     'name' => 'Grid item (6/12)',
@@ -307,7 +307,7 @@ function glacier_content_blocks_section_uuid_features_default_terms() {
     'description_field' => array(
       'en' => array(
         0 => array(
-          'value' => '',
+          'value' => NULL,
           'summary' => NULL,
           'format' => 'full_html',
           'safe_value' => '',
@@ -353,7 +353,7 @@ function glacier_content_blocks_section_uuid_features_default_terms() {
         ),
       ),
     ),
-    'description_original' => '',
+    'description_original' => NULL,
   );
   return $terms;
 }

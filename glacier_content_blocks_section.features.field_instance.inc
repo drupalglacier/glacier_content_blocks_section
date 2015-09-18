@@ -30,8 +30,13 @@ function glacier_content_blocks_section_field_default_field_instances() {
       ),
       'paragraphs_editor_preview' => array(
         'label' => 'above',
-        'settings' => array(),
-        'type' => 'hidden',
+        'module' => 'paragraphs',
+        'settings' => array(
+          'fences_display_specific_wrapper' => '',
+          'field_formatter_class' => '',
+          'view_mode' => 'paragraphs_editor_preview',
+        ),
+        'type' => 'paragraphs_view',
         'weight' => 0,
       ),
     ),
