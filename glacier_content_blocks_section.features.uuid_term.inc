@@ -21,7 +21,21 @@ function glacier_content_blocks_section_uuid_features_default_terms() {
     'uuid' => '17c0c7a1-b673-45fa-859d-7ceb21e94565',
     'vocabulary_machine_name' => 'content_block_styles',
     'name_field' => array(
+      'de' => array(
+        0 => array(
+          'value' => 'Grid container',
+          'format' => NULL,
+          'safe_value' => 'Grid container',
+        ),
+      ),
       'en' => array(
+        0 => array(
+          'value' => 'Grid container',
+          'format' => NULL,
+          'safe_value' => 'Grid container',
+        ),
+      ),
+      'und' => array(
         0 => array(
           'value' => 'Grid container',
           'format' => NULL,
@@ -71,6 +85,18 @@ function glacier_content_blocks_section_uuid_features_default_terms() {
           'created' => 1442587810,
           'changed' => 1442587810,
         ),
+        'de' => array(
+          'entity_type' => 'taxonomy_term',
+          'entity_id' => 8,
+          'revision_id' => 8,
+          'language' => 'de',
+          'source' => 'en',
+          'uid' => 1,
+          'status' => 1,
+          'translate' => 0,
+          'created' => 1442587810,
+          'changed' => 1442587810,
+        ),
       ),
     ),
     'description_original' => NULL,
@@ -87,6 +113,20 @@ function glacier_content_blocks_section_uuid_features_default_terms() {
     'vocabulary_machine_name' => 'content_block_styles',
     'name_field' => array(
       'en' => array(
+        0 => array(
+          'value' => 'Grid item (4/12)',
+          'format' => NULL,
+          'safe_value' => 'Grid item (4/12)',
+        ),
+      ),
+      'de' => array(
+        0 => array(
+          'value' => 'Grid item (4/12)',
+          'format' => NULL,
+          'safe_value' => 'Grid item (4/12)',
+        ),
+      ),
+      'und' => array(
         0 => array(
           'value' => 'Grid item (4/12)',
           'format' => NULL,
@@ -141,6 +181,18 @@ function glacier_content_blocks_section_uuid_features_default_terms() {
           'created' => 1442587933,
           'changed' => 1442587933,
         ),
+        'de' => array(
+          'entity_type' => 'taxonomy_term',
+          'entity_id' => 11,
+          'revision_id' => 11,
+          'language' => 'de',
+          'source' => 'en',
+          'uid' => 1,
+          'status' => 1,
+          'translate' => 0,
+          'created' => 1442587933,
+          'changed' => 1442587933,
+        ),
       ),
     ),
     'description_original' => NULL,
@@ -157,6 +209,20 @@ function glacier_content_blocks_section_uuid_features_default_terms() {
     'vocabulary_machine_name' => 'content_block_styles',
     'name_field' => array(
       'en' => array(
+        0 => array(
+          'value' => 'Grid item (3/12)',
+          'format' => NULL,
+          'safe_value' => 'Grid item (3/12)',
+        ),
+      ),
+      'de' => array(
+        0 => array(
+          'value' => 'Grid item (3/12)',
+          'format' => NULL,
+          'safe_value' => 'Grid item (3/12)',
+        ),
+      ),
+      'und' => array(
         0 => array(
           'value' => 'Grid item (3/12)',
           'format' => NULL,
@@ -211,6 +277,18 @@ function glacier_content_blocks_section_uuid_features_default_terms() {
           'created' => 1442587963,
           'changed' => 1442587963,
         ),
+        'de' => array(
+          'entity_type' => 'taxonomy_term',
+          'entity_id' => 12,
+          'revision_id' => 12,
+          'language' => 'de',
+          'source' => 'en',
+          'uid' => 1,
+          'status' => 1,
+          'translate' => 0,
+          'created' => 1442587963,
+          'changed' => 1442587963,
+        ),
       ),
     ),
     'description_original' => NULL,
@@ -227,6 +305,20 @@ function glacier_content_blocks_section_uuid_features_default_terms() {
     'vocabulary_machine_name' => 'content_block_styles',
     'name_field' => array(
       'en' => array(
+        0 => array(
+          'value' => 'Grid item (8/12)',
+          'format' => NULL,
+          'safe_value' => 'Grid item (8/12)',
+        ),
+      ),
+      'de' => array(
+        0 => array(
+          'value' => 'Grid item (8/12)',
+          'format' => NULL,
+          'safe_value' => 'Grid item (8/12)',
+        ),
+      ),
+      'und' => array(
         0 => array(
           'value' => 'Grid item (8/12)',
           'format' => NULL,
@@ -281,6 +373,18 @@ function glacier_content_blocks_section_uuid_features_default_terms() {
           'created' => 1442587897,
           'changed' => 1442587897,
         ),
+        'de' => array(
+          'entity_type' => 'taxonomy_term',
+          'entity_id' => 10,
+          'revision_id' => 10,
+          'language' => 'de',
+          'source' => 'en',
+          'uid' => 1,
+          'status' => 1,
+          'translate' => 0,
+          'created' => 1442587897,
+          'changed' => 1442587897,
+        ),
       ),
     ),
     'description_original' => NULL,
@@ -297,6 +401,20 @@ function glacier_content_blocks_section_uuid_features_default_terms() {
     'vocabulary_machine_name' => 'content_block_styles',
     'name_field' => array(
       'en' => array(
+        0 => array(
+          'value' => 'Grid item (6/12)',
+          'format' => NULL,
+          'safe_value' => 'Grid item (6/12)',
+        ),
+      ),
+      'de' => array(
+        0 => array(
+          'value' => 'Grid item (6/12)',
+          'format' => NULL,
+          'safe_value' => 'Grid item (6/12)',
+        ),
+      ),
+      'und' => array(
         0 => array(
           'value' => 'Grid item (6/12)',
           'format' => NULL,
@@ -345,6 +463,18 @@ function glacier_content_blocks_section_uuid_features_default_terms() {
           'revision_id' => 9,
           'language' => 'en',
           'source' => '',
+          'uid' => 1,
+          'status' => 1,
+          'translate' => 0,
+          'created' => 1442587860,
+          'changed' => 1442587860,
+        ),
+        'de' => array(
+          'entity_type' => 'taxonomy_term',
+          'entity_id' => 9,
+          'revision_id' => 9,
+          'language' => 'de',
+          'source' => 'en',
           'uid' => 1,
           'status' => 1,
           'translate' => 0,
