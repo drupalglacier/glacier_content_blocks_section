@@ -2,7 +2,7 @@
 You can use this content block to create nested content blocks (yes, content blocks inside content blocks, inside content blocks,...) this is especially useful to create grids.
 
 ## About
-Github: https://github.com/maoberlehnerdrupal/glacier_content_blocks_section
+Github: https://github.com/drupalglacier/glacier_content_blocks_section
 
 ### Author
 Markus Oberlehner  
